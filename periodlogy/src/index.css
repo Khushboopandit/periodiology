@@ -1,0 +1,8 @@
+
+body {
+    color: #FFF;
+    background-color: #FD940A;
+    background-image: radial-gradient(circle, #F9A72B 0%, #FA9026 70%, #FB6C1F 100%);
+    /* background-image: url('/birds.gif'); */
+    /* background-size: contain */
+  }
